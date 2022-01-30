@@ -31,8 +31,8 @@ As an employer, I want to view a potential employee's deployed portfolio of work
 Run using the github URL: https://jcastillo9.github.io/portfolio-v3-/
 
 # Screenshot
-<img src="/images/portfolio_landingpage.png"/>
-<img src="/images/portfolio_projectspage.png"/>
+<img src="assets/images/portfolio_landingpage.png"/>
+<img src="assets/images/portfolio_projectspage.png"/>
 
 ## Credits
  
