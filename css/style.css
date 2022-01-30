@@ -93,13 +93,19 @@ main {
 }
 
 #projects-list {
-    padding: 0.8rem;
+    padding: 3rem;
     text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
 }
 
 #projects-list img {
     width:300px;
     margin:0;
+    flex-direction: row;
+    border-radius: 2%;
+    margin: 20px;
 }
 
 #projects-list h3, p, a {
@@ -181,17 +187,6 @@ footer a {
         text-align: center;
     }
 
-    #projects-list {
-        display: flex;
-        justify-content: center;
-        padding: 2rem;
-    }
-
-    #projects-list img {
-        width:400px;
-        margin: 0;
-    }
-
     footer h3 {
         font-size: 2rem;
     }
@@ -247,17 +242,6 @@ footer a {
         text-align: center;
     }
 
-    #projects-list {
-        display: flex;
-        justify-content: center;
-        padding: 2rem;
-    }
-
-    #projects-list img {
-        width:500px;
-        margin: 0;
-    }
-
     footer {
         padding: 1rem 1rem;
     }
@@ -265,3 +249,4 @@ footer a {
     footer h3 {
         font-size: 2rem;
     }
+}
