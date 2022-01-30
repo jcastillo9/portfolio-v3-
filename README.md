@@ -23,6 +23,7 @@ As an employer, I want to view a potential employee's deployed portfolio of work
 
 # Technologies Used
 * HTML
+* CSS
 * Javascript
 * Media Queries
 
