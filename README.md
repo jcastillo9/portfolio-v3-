@@ -27,7 +27,7 @@ As an employer, I want to view a potential employee's deployed portfolio of work
 * Media Queries
 
 # Installation
-Run using the github URL: https://jcastillo9.github.io/portfolio-v2-
+Run using the github URL: https://jcastillo9.github.io/portfolio-v3-/
 
 # Screenshot
 <img src="/images/portfolio_landingpage.png"/>
